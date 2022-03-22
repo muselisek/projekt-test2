@@ -12,3 +12,5 @@ elif int(dnil[-1]) > int(dnil[-2]):
     print("UP")
 elif int(dnil[-1]) < int(dnil[-2]):
     print("DOWN")
+else:
+    print("cos nie tak")
